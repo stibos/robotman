@@ -1,0 +1,3 @@
+[submodule "robotman-spring"]
+	path = robotman-spring
+	url = https://github.com/stibos/robotman-spring.git
