@@ -1,3 +1,6 @@
 [submodule "robotman-spring"]
 	path = robotman-spring
 	url = https://github.com/stibos/robotman-spring.git
+[submodule "robotman-angular"]
+	path = robotman-angular
+	url = https://github.com/stibos/robotman-angular.git
